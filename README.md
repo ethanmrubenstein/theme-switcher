@@ -1,6 +1,6 @@
 # Theme Switcher
 
-A simple responsive navbar with an off-screen mobile menu built using plain HTML, CSS and JavaScript. Includes a slide-in effect for smaller screens.
+A simple button that toggles between light and dark themes using plain JavaScript and CSS. Ideal for adding a theme switcher to any website.
 
 ## 🚀 How to Use
 
